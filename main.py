@@ -4,8 +4,8 @@ import random
 import smtplib
 from datetime import datetime
 
-MY_EMAIL = "stenberg.p.b@gmail.com"
-MY_PASSWORD = "##ThebigbadbearGmail89"
+MY_EMAIL = "ENTER YOUR EMAIL"
+MY_PASSWORD = "ENTER YOUR PASSWORD"
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
